@@ -1,10 +1,10 @@
 #!/bin/bash
 
-##############################
-# https://t.me/EvilMasterBoy #
-##############################
-# copy right 2023            #
-##############################
+##########################
+# https://t.me/Cypher4O4 #
+##########################
+# copy right 2023        #
+##########################
 
 br="\033[91m"
 bg="\033[92m"
@@ -35,7 +35,7 @@ ${bl}${br}╚══════╝ ╚═════╝  ╚═════╝�
 
 ${bb}NETWORK STATUS ${by}=${bb} $status                 ${re}
 ${bb}DEVELOPER      ${by}=${bb} ${br}LUCAS                   ${re}
-${bb}CHANNEL LINK   ${by}=${bb} ${bc}\e[4mhttps://t.me/FSociety_MM${re}
+${bb}CHANNEL LINK   ${by}=${bb} ${bc}\e[4mhttps://t.me/BlackHatLay${re}
 "
 }
 loc(){
