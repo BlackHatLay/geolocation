@@ -46,7 +46,7 @@ ${bl}${br}██║     ██║   ██║██║     ██╔══██
 ${bl}${br}███████╗╚██████╔╝╚██████╗██║  ██║███████║${re}
 ${bl}${br}╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝${re}\n
 ${bb}DEVELOPER      ${by}=${bb} ${br}LUCAS                   ${re}
-${bb}CHANNEL LINK   ${by}=${bb} ${bc}\e[4mhttps://t.me/FSociety_MM${re}
+${bb}CHANNEL LINK   ${by}=${bb} ${bc}\e[4mhttps://t.me/BlackHatlay${re}
 	"
 	echo -e "\t${bb}[${by}*${bb}] ${bg}run Type '${br}geolocation ipAddress${bg}'"
 	echo -e "\t${bb}[${by}*${bb}] ${bg}example  '${br}geolocation 149.154.167.99${bg}'"
