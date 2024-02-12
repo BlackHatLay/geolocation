@@ -34,7 +34,7 @@ ${bl}${br}███████╗╚██████╔╝╚█████�
 ${bl}${br}╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝${re}
 
 ${bb}NETWORK STATUS ${by}=${bb} $status                 ${re}
-${bb}DEVELOPER      ${by}=${bb} ${br}LUCAS                   ${re}
+${bb}DEVELOPER      ${by}=${bb} ${br}Cypher404               ${re}
 ${bb}CHANNEL LINK   ${by}=${bb} ${bc}\e[4mhttps://t.me/BlackHatLay${re}
 "
 }
